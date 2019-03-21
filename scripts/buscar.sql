@@ -1,0 +1,1 @@
+select * from tblctgusers where users in ('A','B');
