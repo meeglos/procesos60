@@ -1,0 +1,24 @@
+Por usuarios
+++++++++++++++++
+
+1-Número de usuarios creados por trimestre o entre dos fechas (tblMiemb)
+2-Número de expedientes creados por trimestre o entre dos fechas (tblExpFam)
+3-Número de intervenciones creados por trimestre o entre dos fechas (tblInter, tblctgestdinter)fecini
+	-Abiertas / Cerradas / Terminadas
+4-Número de usuarios en  intervenciones creados por trimestre o entre dos fechas (tblInter, tblctgestdinter, tblusuinter) fecini
+	-Abiertas / Cerradas / Terminadas
+
+
+
++++++++++++
+
+
+5-Intervenciones cerradas según el motivo de cierre por trimestre o entre dos fechas.( tblInter, tblctgestdinter, tblctgcierrinte)
+6-Listado de recursos aplicados con el número de veces que se han reflejado ordenados entre dos fechas o trimestrales.
+	-De más a menos
+	-Por número de código
+	-Solo con los tres primeros dígitos del código. Nivel grupo y tipo
+7-Lo mismo para las:
+	-Demandas
+	-Idóneos
+	-Valoraciones

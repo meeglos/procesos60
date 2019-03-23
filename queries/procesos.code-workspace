@@ -1,0 +1,18 @@
+{
+	"folders": [],
+	"settings": {
+		"sqltools.connections": [
+			{
+				"askForPassword": false,
+				"connectionTimeout": 30,
+				"database": "procesos",
+				"dialect": "PostgreSQL",
+				"name": "procesos",
+				"password": "123456",
+				"port": 5432,
+				"server": "localhost",
+				"username": "postgres"
+			}
+		]
+	}
+}
