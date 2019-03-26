@@ -1,3 +1,4 @@
+﻿-- Intervenciones entre fechas, agrupadas por meses
 SELECT 
 	date_part('month', w.fini) AS "Nº MES",
 	CASE 

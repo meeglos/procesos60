@@ -1,3 +1,4 @@
+﻿-- Intervenciones por trimestre
 SELECT 
 	date_part('year', w.fini) AS "ANO",
 	CASE 
